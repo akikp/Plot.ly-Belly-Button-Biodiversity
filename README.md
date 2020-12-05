@@ -2,8 +2,8 @@
 
 https://akikp.github.io/Plot.ly-Belly-Button-Biodiversity/
 
-![alt text](screenshots/HW 01.png)
-![alt text](screenshots/HW 02.png)
+![alt text](https://github.com/akikp/Plot.ly-Belly-Button-Biodiversity/blob/main/screenshots/HW%2001.png)
+![alt text](https://github.com/akikp/Plot.ly-Belly-Button-Biodiversity/blob/main/screenshots/HW%2002.png)
 
 ## Task Performed
 
