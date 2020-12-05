@@ -2,6 +2,9 @@
 
 https://akikp.github.io/Plot.ly-Belly-Button-Biodiversity/
 
+![alt text](screenshots/HW 01.png)
+![alt text](screenshots/HW 02.png)
+
 ## Task Performed
 
 1. Use the D3 library to read in samples.json.
